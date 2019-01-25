@@ -14,6 +14,7 @@ gem 'rake'
 gem 'rack', git: 'https://github.com/rack/rack.git'
 gem 'rack-test', '>= 0.6.2'
 gem "minitest", "~> 5.0"
+gem 'testmetrics_minitest', ">= 1.0.2"
 gem 'yard'
 
 gem "rack-protection", path: "rack-protection"
